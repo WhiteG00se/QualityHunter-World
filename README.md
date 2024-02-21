@@ -10,6 +10,7 @@
   
 - Stracker's Loader - https://www.nexusmods.com/monsterhunterworld/mods/1982
 - Performance Booster and Plugin Extender - https://www.nexusmods.com/monsterhunterworld/mods/3473
+- Tic Rate Fix - https://www.nexusmods.com/monsterhunterworld/mods/3474
 - Camera Zoom - https://www.nexusmods.com/monsterhunterworld/mods/790
 - No Rain - https://www.nexusmods.com/monsterhunterworld/mods/75
 - Skippable Cutscenes - https://www.nexusmods.com/monsterhunterworld/mods/5540
