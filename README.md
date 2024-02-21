@@ -16,7 +16,7 @@ The rest of the files we created using<br>
 https://github.com/Synthlight/MHW-Editor<br>
 https://github.com/Synthlight/MHW-Editor/wiki<br>
 https://www.nexusmods.com/monsterhunterworld/mods/411<br>
-oo2core_8_win64.dll (got a backup on my Google-Drive)
+oo2core_8_win64.dll (got a backup on Google-Drive)
 
 <br>Changelog:
 <br>\common\item\itemData.itm
