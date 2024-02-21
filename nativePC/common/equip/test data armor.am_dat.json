@@ -1,0 +1,17 @@
+{
+  "targetFile": "armor.am_dat",
+  "version": 3,
+  "changesV3": {
+    "Entries": {
+      "2|Low_Rank|Regular|Head": {
+        "Defense": 4
+      },
+      "15|Low_Rank|Regular|Head": {
+        "Defense": 4
+      },
+      "1|Low_Rank|Regular|Head": {
+        "Defense": 12
+      }
+    }
+  }
+}
