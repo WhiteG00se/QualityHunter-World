@@ -1,7 +1,7 @@
 <h2>How to use</h2>
 Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter World"<br>
 <hr>
-3rd party mods included in my bundle:<br>
+3rd party mods included in our bundle:<br>
 Stracker's Loader - https://www.nexusmods.com/monsterhunterworld/mods/1982<br>
 Performance Booster and Plugin Extender - https://www.nexusmods.com/monsterhunterworld/mods/3473<br>
 Camera Zoom - https://www.nexusmods.com/monsterhunterworld/mods/790<br>
@@ -12,7 +12,7 @@ Easier to spot Guiding Lands Gathering Spots - https://www.nexusmods.com/monster
 All Monster Drops Increased - https://www.nexusmods.com/monsterhunterworld/mods/6556<br>
 Sharpening finish sound replacement__Nice Meme - https://www.nexusmods.com/monsterhunterworld/mods/345<br>
 <br>
-Rest of the files I created myself using<br>
+The rest of the files we created using<br>
 https://github.com/Synthlight/MHW-Editor<br>
 https://github.com/Synthlight/MHW-Editor/wiki<br>
 https://www.nexusmods.com/monsterhunterworld/mods/411<br>
