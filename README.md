@@ -29,7 +29,7 @@
 - oo2core_8_win64.dll (got a backup on Google-Drive)
 </details>
 
-<h1>Changelog</h1>
+<h2>Changelog:</h2>
 
   <details>
   <summary>common\item\itemData.itm</summary>
