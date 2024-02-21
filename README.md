@@ -29,40 +29,38 @@
 - oo2core_8_win64.dll (got a backup on Google-Drive)
 </details>
 
-<details>
-<summary>Changelog</summary>
+<h1>Changelog</h1>
 
   <details>
-  <summary>\common\item\itemData.itm</summary>
-  
+  <summary>common\item\itemData.itm</summary>
+    
   - Change carry limits
   - Some items (and most ammo) are now unlimited
   </details>
 
   <details>
-  <summary>\common\facility\shopList.slt</summary>
+  <summary>common\facility\shopList.slt</summary>
   
   - add lots of stuff to the shop
   </details>
 
   <details>
-  <summary>\common\pl\pl_param.plp</summary>
+  <summary>common\pl\pl_param.plp</summary>
   
   </details>
 
   <details>
-  <summary>\common\equip\armor.am_dat</summary>
+  <summary>common\equip\armor.am_dat</summary>
+    
   - SELECT a.set_group, a.variant, a.type, a.equip_slot,"Defense",a.defense\*2 WHERE a.defense > 0 ORDER BY a.defense
   </details>
 
   <details>
-  <summary>\common\equip\skill_data.skl_dat</summary>
+  <summary>common\equip\skill_data.skl_dat</summary>
   
   </details>
-
+  
   <details>
-  <summary>\hm\wp\wp05\music_skill.msk & \common\pl\music_skill_efc.mske</summary>
+  <summary>hm\wp\wp05\music_skill.msk & common\pl\music_skill_efc.mske</summary>
   
   </details>
-
-</details>
