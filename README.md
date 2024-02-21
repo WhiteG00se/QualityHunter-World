@@ -1,10 +1,8 @@
 <h2>How to use</h2>
-Download Stracker's Loader and add it to "[...]\Steam\steamapps\common\Monster Hunter World\"<br>
-https://www.nexusmods.com/monsterhunterworld/mods/3473?tab=files<br>
-
-Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter World\nativePC"<br>
+Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter World"<br>
 <hr>
 3rd party mods included in my bundle:<br>
+Stracker's Loader - https://www.nexusmods.com/monsterhunterworld/mods/1982<br>
 Performance Booster and Plugin Extender - https://www.nexusmods.com/monsterhunterworld/mods/3473<br>
 Camera Zoom - https://www.nexusmods.com/monsterhunterworld/mods/790<br>
 No Rain - https://www.nexusmods.com/monsterhunterworld/mods/75<br>
