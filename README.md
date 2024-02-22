@@ -69,6 +69,11 @@
   </details>
   
   <details>
-  <summary>hm\wp\wp05\music_skill.msk & common\pl\music_skill_efc.mske</summary>
+  <summary>common\pl\music_skill_efc.mske</summary>
+
+  
+  </details>
+  <details>
+  <summary>hm\wp\wp05\music_skill.msk</summary>
   
   </details>
