@@ -53,7 +53,8 @@
 
   <details>
   <summary>common\pl\pl_param.plp</summary>
-  
+
+  - Gunner Defense Rate 0.7 => 0.55  
   </details>
 
   <details>
