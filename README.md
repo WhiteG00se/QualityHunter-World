@@ -35,8 +35,14 @@
   <details>
   <summary>common\item\itemData.itm</summary>
     
-  - Change carry limits
-  - Some items (and most ammo) are now unlimited
+  - changed item carry limits, especially for healing items as part of the defense rework
+  - the following items are now infinite use: 
+      - Blast and poison coatings, ammos (aside from para, sleep, cluster and slicing)
+      - Cool Drink, Hot Drink, Whetfish Fin, Whetfish Fin+ and Well-done Steak
+  - Banned the following items (defense rework):
+  - Powertalon, Powercharm, Armortalon, Armorcharm, Demon Powder, Mega Armorskin, Armorskin, Mega Demondrug, Demondrug, Ancient Potion
+
+
   </details>
 
   <details>
