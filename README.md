@@ -59,7 +59,7 @@
   <details>
   <summary>common\equip\armor.am_dat</summary>
     
-  - SELECT a.set_group, a.variant, a.type, a.equip_slot,"Defense",a.defense\*2 WHERE a.defense > 0 ORDER BY a.defense
+  - SELECT a.P1_Set_Group, a.p2_Variant, a.P3_Type, a.P4_Equip_slot,"Defense",a.Defense*3 WHERE a.Defense> 0
   </details>
 
   <details>
