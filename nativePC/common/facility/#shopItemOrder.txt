@@ -1,0 +1,10 @@
+10	healing
+20	anti debuff
+30	buff
+40	pods
+50	bombs & traps
+60	other
+80	only buy once
+90	coatings
+100	ammo
+200	jewels

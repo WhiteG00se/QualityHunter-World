@@ -39,8 +39,8 @@
   - the following items are now infinite use: 
       - Blast and poison coatings, ammos (aside from para, sleep, cluster and slicing)
       - Cool Drink, Hot Drink, Whetfish Fin, Whetfish Fin+ and Well-done Steak
-  - Banned the following items (defense rework):
-  - Powertalon, Powercharm, Armortalon, Armorcharm, Demon Powder, Mega Armorskin, Armorskin, Mega Demondrug, Demondrug, Ancient Potion
+  - Banned the following items (defense rework): <br>
+   Armortalon, Armorcharm, (Mega) Armorskin, (Mega) Demondrug, Ancient Potion
 
 
   </details>
@@ -48,7 +48,7 @@
   <details>
   <summary>common\facility\shopList.slt</summary>
   
-  - add lots of stuff to the shop
+  - add all relevent usable items to the shop and some other items as well
   </details>
 
   <details>
@@ -89,9 +89,5 @@
     - Health Boost (S): from 30/30 ==> 30
     - Health Boost (L): from 50/50 ==> 50
     - Max Stamina Up + Recovery: from 50/50 ==> 50
-  
-  </details>
-  <details>
-  <summary>hm\wp\wp05\music_skill.msk</summary>
   
   </details>
