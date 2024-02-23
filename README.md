@@ -77,7 +77,7 @@
     - Tool Use Drain Reduced (S): from 0.75/0.75 ==> 0.8
     - Tool Use Drain Reduced (L): from 0.75/0.75 ==> 0.7
     - Elemental Attack Boost: from 1.08/1.1 ==> 1.1
-    - Abnormal Status Atk. Increased: from 1.1/1.15 ==> 1.2
+    - Abnormal Status Atk. Increased: from 1.1/1.15 ==> 1.3
     - Defense or Attack Up (S): from 1.1/1.15 ==> 1.12
     - Defense or Attack Up (L): from 1.15/1.2 ==> 1.2
     - Recovery Speed (S): from 2/2 ==> 2
