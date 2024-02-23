@@ -17,6 +17,7 @@
 - Guiding Lands Gathering Indicator - https://www.nexusmods.com/monsterhunterworld/mods/1986
 - Easier to spot Guiding Lands Gathering Spots - https://www.nexusmods.com/monsterhunterworld/mods/1972
 - All Monster Drops Increased - https://www.nexusmods.com/monsterhunterworld/mods/6556
+- Tenderizing Rebalance and Removal - https://www.nexusmods.com/monsterhunterworld/mods/5601
 - Sharpening finish sound replacement__Nice Meme - https://www.nexusmods.com/monsterhunterworld/mods/345
 </details>
 
