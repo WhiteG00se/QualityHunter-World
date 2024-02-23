@@ -69,8 +69,26 @@
   </details>
   
   <details>
-  <summary>common\pl\music_skill_efc.mske</summary>
+  <summary>common\pl\music_skill_efc.mske (script for these changes not yet written)</summary>
 
+  - encore no longer extends the duration or boosts the effect of buffs
+  - duration of all songs changed to 3min/6min/10min (no maestro/maestro 1/maestro 2)
+  - made the following changes to the effects of buffs:
+    - Tool Use Drain Reduced (S): from 0.75/0.75 ==> 0.8
+    - Tool Use Drain Reduced (L): from 0.75/0.75 ==> 0.75
+    - Elemental Attack Boost: from 1.08/1.1 ==> 1.1
+    - Abnormal Status Atk. Increased: from 1.1/1.15 ==> 1.2
+    - Defense or Attack Up (S): from 1.1/1.15 ==> 1.12
+    - Defense or Attack Up (L): from 1.15/1.2 ==> 1.2
+    - Recovery Speed (S): from 2/2 ==> 2
+    - Recovery Speed (L): from 3/3 ==> 3
+    - Blight Res Up: from 5/10 ==> 10
+    - Elemental Res Boost (S): from 5/7 ==> 7
+    - Elemental Res Boost (L): from 7/10 ==> 10
+    - Affinity Up and Health Rec. (S): from 15/20 ==> 20
+    - Health Boost (S): from 30/30 ==> 30
+    - Health Boost (L): from 50/50 ==> 50
+    - Max Stamina Up + Recovery: from 50/50 ==> 50
   
   </details>
   <details>
