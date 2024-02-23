@@ -72,7 +72,7 @@
   <summary>common\pl\music_skill_efc.mske (script for these changes not yet written)</summary>
 
   - encore no longer extends the duration or boosts the effect of buffs
-  - duration of all songs changed to 3min/6min/10min (no maestro/maestro 1/maestro 2)
+  - duration of all songs changed to 3min/6min/12min (no maestro/maestro 1/maestro 2)
   - made the following changes to the effects of buffs:
     - Tool Use Drain Reduced (S): from 0.75/0.75 ==> 0.8
     - Tool Use Drain Reduced (L): from 0.75/0.75 ==> 0.7
