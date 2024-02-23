@@ -75,7 +75,7 @@
   - duration of all songs changed to 3min/6min/10min (no maestro/maestro 1/maestro 2)
   - made the following changes to the effects of buffs:
     - Tool Use Drain Reduced (S): from 0.75/0.75 ==> 0.8
-    - Tool Use Drain Reduced (L): from 0.75/0.75 ==> 0.75
+    - Tool Use Drain Reduced (L): from 0.75/0.75 ==> 0.7
     - Elemental Attack Boost: from 1.08/1.1 ==> 1.1
     - Abnormal Status Atk. Increased: from 1.1/1.15 ==> 1.2
     - Defense or Attack Up (S): from 1.1/1.15 ==> 1.12
