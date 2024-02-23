@@ -66,6 +66,32 @@
   <details>
   <summary>common\equip\skill_data.skl_dat</summary>
   
+  Made the following changes to Skills
+  - Weakness Exploit DLC nerf reverted, +15/30/50% affinity on weakspots, no softening requirement
+  - Focus:
+    - charge rate changed from 95/90/85% to 92/85/80%
+    - gauge fill rate changed from 5/10/20% to 10/20/35%
+  - Partbreaker changed from 10/20/30% to 20/35/50%
+  - Slugger changed from 20/30/40/50/60% to 20/40/50/75/100%
+  - Stamina Thief from 20/30/40/50/60% to 40/60/80/110/150%
+  - Latent Power affinity changed from 10/20/30/40/50/60/70% to 20/30/40/50/60/75/100%
+  - Agitator affinity changed from 5/5/7/7/10/15/20% to 5/6/7/8/10/15/20%
+  - Peak Performance attack buff changed from 5/10/20 to 10/18/25
+  - Heroics:
+   - attack changed from 0/5/5/10/15/25/40% to 3/6/9/12/15/25/40%
+   - defense changed from 50/50/100/100/100/150/150 to 50/60/70/80/100/125/150
+  - Marathon Runner stamina usage rate changed from 85/70/50% to 75/60/50%
+  - Stamina Surge stamina recovery increase changed from 10/20/30% to 10/25/40%
+  - Quick Sheath changed from 110/120/140 to 120/140/155
+  - Item Prolonger changed from 10/25/50% to 33/66/100%
+  - Free Meal changed from 25/50/75% to 20/35/50%
+  - Maximum Might:
+    - affinity changed from 10/20/30/40/40% to 10/20/30/40/50% 
+    - max stamina time requirement removed (from 5/5/5/5/0s)
+    - persisting buff duration changed from 2/3/3/4/0s to 0/0/0/1/2s
+
+
+
   </details>
   
   <details>
