@@ -66,7 +66,6 @@
   <details>
   <summary>common\equip\skill_data.skl_dat</summary>
   
-  Made the following changes to Skills
   - Weakness Exploit DLC nerf reverted, +15/30/50% affinity on weakspots, no softening requirement
   - Focus:
     - charge rate changed from 95/90/85% to 92/85/80%
