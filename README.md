@@ -18,6 +18,7 @@
 - Easier to spot Guiding Lands Gathering Spots - https://www.nexusmods.com/monsterhunterworld/mods/1972
 - All Monster Drops Increased - https://www.nexusmods.com/monsterhunterworld/mods/6556
 - Tenderizing Rebalance and Removal - https://www.nexusmods.com/monsterhunterworld/mods/5601
+- Permanent Shiny Drops - https://www.nexusmods.com/monsterhunterworld/mods/3456
 - Sharpening finish sound replacement__Nice Meme - https://www.nexusmods.com/monsterhunterworld/mods/345
 </details>
 
@@ -116,4 +117,13 @@
     - Health Boost (L): from 50/50 ==> 50
     - Max Stamina Up + Recovery: from 50/50 ==> 50
   
+  </details>
+
+  <details>
+  <summary>toDo list</summary>
+
+  - add certain decos as quest rewards
+  - change drop tables
+  - hh script
+  - armor script + armor res changes
   </details>
