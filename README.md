@@ -138,4 +138,5 @@
   - Change gun ammo (pierce, spread, normal, sticky, slicing)
   - Switch axe: nerf Power Phials, buff overall dmg 
   - Fix Kulve Taroth
+  - Buff clutch claw motion values
   </details>
