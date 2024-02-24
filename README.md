@@ -1,51 +1,47 @@
 <html>
-
-<details>
+<details> <!-- How to use -->
   <summary>How to use</summary>
   <ul>
     <li>Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter World"</li>
     <li>That's it! You can start the game and all mods will be loaded.</li>
   </ul>
 </details>
-
-<details>
+<details> <!-- 3rd party mods included in our bundle -->
   <summary>3rd party mods included in our bundle</summary>
-  
   <ul>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1982">Stracker's Loader</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3473">Performance Booster and Plugin Extender</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3473">Performance Booster and Plugin Extender</a>
+    </li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3474">Tic Rate Fix</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/790">Camera Zoom</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/75">No Rain</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/5540">Skippable Cutscenes</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1986">Guiding Lands Gathering Indicator</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1972">Easier to spot Guiding Lands Gathering Spots</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1972">Easier to spot Guiding Lands Gathering
+        Spots</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6556">All Monster Drops Increased</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/5601">Tenderizing Rebalance and Removal</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3456">Permanent Shiny Drops</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2459">True weapon damage values</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/345">Sharpening finish sound replacement__Nice Meme</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/345">Sharpening finish sound replacement__Nice
+        Meme</a></li>
   </ul>
 </details>
-
-<details>
+<details> <!-- Main tools used for our mods: -->
   <summary>Main tools used for our mods:</summary>
-  
   <ul>
     <li><a href="https://github.com/Synthlight/MHW-Editor/releases">Synthlight's MHW Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHW-Editor/wiki">Synthlight's MHW Editor Wiki</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/411">MHWNoChunk</a></li>
-    <li><a href="https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv">RBQL / Rainbow CSV for VS Code</a></li>
+    <li><a href="https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv">RBQL / Rainbow CSV for VS
+        Code</a></li>
     <li>Our own scripts</li>
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
 </details>
-
 <h3>Changelog:</h3>
-
-<details>
+<details> <!-- common\item\itemData.itm -->
   <summary>common\item\itemData.itm</summary>
-    
   <ul>
     <li>Changed item carry limits, especially for healing items as part of the healing rework</li>
     <li>You're supposed to get the max amount of items</li>
@@ -59,35 +55,28 @@
       Armortalon, armorcharm, (mega) armorskin, (mega) demondrug, ancient Potion</li>
   </ul>
 </details>
-
-<details>
+<details> <!-- common\facility\shopList.slt -->
   <summary>common\facility\shopList.slt</summary>
-  
   <ul>
-    <li>You can now get all the usable items you'll need during hunts for 1z at the shop. Crafting and cultivating plants are no longer required</li>
+    <li>You can now get all the usable items you'll need during hunts for 1z at the shop. Crafting and cultivating
+      plants are no longer required</li>
     <li>Added (gourmet) vouchers, armor spheres, whetfish fins and Zorah Magdaros tickets to the shop</li>
   </ul>
 </details>
-
-<details>
+<details> <!-- common\pl\pl_param.plp -->
   <summary>common\pl\pl_param.plp</summary>
-
   <ul>
     <li>Gunner defense rate 0.7 ⇒ 0.55 (healing rework)</li>
   </ul>
 </details>
-
-<details>
+<details> <!-- common\equip\armor.am_dat -->
   <summary>common\equip\armor.am_dat</summary>
-    
   <ul>
     <li>SELECT a.P1_Set_Group, a.p2_Variant, a.P3_Type, a.P4_Equip_slot, "Defense", a.Defense*3 WHERE a.Defense> 0</li>
   </ul>
 </details>
-
-<details>
+<details> <!-- common\equip\skill_data.skl_dat -->
   <summary>common\equip\skill_data.skl_dat</summary>
-  
   <ul>
     <li>Weakness exploit DLC nerf reverted, +15/30/50% affinity on weakspots, no softening requirement</li>
     <li>Focus:
@@ -122,26 +111,9 @@
     </li>
   </ul>
 </details>
-
-<br><b>Bow (wp11)</b>
-
-<details>
-  <summary>hm\wp\wp11\wp11_param.w11p</summary>
-  <ul>
-    <li>Status Coating Buildup Multiplier unchanged at 	1/1.2/1.4/1.6 (Charge 1/2/3/4)</li>
-    <li>Power Coating Damage unchanged at 1.35</li>
-    <li>Close Range Coating Damage unchanged at 1.18</li>
-    <li>Close Range Coating Critical Start Multiplier unchanged at 	0.1</li>
-    <li>Close Range Coating Critical End Multiplier unchanged at 	0.6</li>
-    <li>Amount of Arrows Shot unchanged</li>
-  </ul>
-</details>
-
-<br><b>Hunting Horn (wp05)</b>
-
-<details>
-  <summary>common\pl\music_skill_efc.mske (script for these changes not yet written)</summary>
-
+<details> <!-- Hunting Horn (wp05) -->
+  <summary><b>Hunting Horn (wp05)</b></summary>
+  <u>common\pl\music_skill_efc.mske (script for these changes not yet written)</u>
   <ul>
     <li>Encore no longer extends the duration or boosts the effect of buffs</li>
     <li>Duration of all songs changed to 3min/6min/12min (no maestro/maestro 1/maestro 2)</li>
@@ -160,7 +132,6 @@
         <li>Elemental Res Boost (L) from 7/10 ⇒ 10</li>
         <li>Health Boost (L) from 50/50 ⇒ 50</li>
       </ul>
-    </li>
     <li>Replaced the following (S) songs with their (L) versions
       <ul>
         <li>Earplugs (S) ⇒ Earplugs (L)</li>
@@ -170,12 +141,25 @@
         <li>Elemental Res Boost (S) from 5/7 ⇒ Elemental Res Boost (L)</li>
       </ul>
     </li>
+</details>
+<details> <!-- Lance (wp06) -->
+  <summary><b>Lance (wp06)</b></summary>
+  <u>hm\wp\wp06\collision\wp06.col & hm\wp\wp06\collision\wp06_01.col</u>
+</details>
+<details> <!-- Bow (wp11) -->
+  <summary><b>Bow (wp11)</b></summary>
+  <u>hm\wp\wp11\wp11_param.w11p</u>
+  <ul>
+    <li>Status Coating Buildup Multiplier unchanged at 1/1.2/1.4/1.6 (Charge 1/2/3/4)</li>
+    <li>Power Coating Damage unchanged at 1.35</li>
+    <li>Close Range Coating Damage unchanged at 1.18</li>
+    <li>Close Range Coating Critical Start Multiplier unchanged at 0.1</li>
+    <li>Close Range Coating Critical End Multiplier unchanged at 0.6</li>
+    <li>Amount of Arrows Shot unchanged</li>
   </ul>
 </details>
-
-<details>
+<details> <!-- toDo list -->
   <summary>toDo list</summary>
-
   <ul>
     <li>Add certain decos as quest rewards</li>
     <li>Change drop tables</li>
@@ -186,7 +170,7 @@
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
     <li>Switch axe: nerf Power Phials, buff overall dmg</li>
     <li>Fix Kulve Taroth</li>
-    <li>Buff clutch claw motion values</li>
+    <li>Buff clutch claw motion values by 50% each</li>
     <li>Change lifesteal</li>
     <li>Change "Long Range" and "Close Range"</li>
     <li>Buff defense augment</li>
