@@ -131,4 +131,5 @@
   - armor script + armor res changes
   - Lance poke and up-poke should deal same dmg
   - buff bow dragon piercer
+  - change gun ammo (pierce, spread, normal, sticky, slicing)
   </details>
