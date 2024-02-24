@@ -34,7 +34,7 @@
 - oo2core_8_win64.dll (got a backup on Google-Drive)
 </details>
 
-<h2>Changelog:</h2>
+<h3>Changelog:</h3>
 
   <details>
   <summary>common\item\itemData.itm</summary>
@@ -95,11 +95,28 @@
     - Affinity changed from 10/20/30/40/40% to 10/20/30/40/50% 
     - Max stamina time requirement removed (from 5/5/5/5/0s)
     - Persisting buff duration changed from 2/3/3/4/0s to 0/0/0/1/2s
-
-
-
   </details>
   
+  <br><b>Bow (wp11)</b>
+  <details>
+  <summary>hm\wp\wp11\wp11_param.w11p</summary>
+
+  - Add certain decos as quest rewards
+  - Change drop tables
+  - hh dmg*1.35 and songs scripts
+  - Armor defense & negative res scripts
+  - Lance dmg*1.2 script (poke and up-poke same dmg)
+  - Buff bow dragon piercer
+  - Change gun ammo (pierce, spread, normal, sticky, slicing)
+  - Switch axe: nerf Power Phials, buff overall dmg 
+  - Fix Kulve Taroth
+  - Buff clutch claw motion values
+  - change lifesteal
+  - change "Long Range" and "Close Range"
+  - buff defense augment
+  </details>
+
+  <br><b>Hunting Horn (wp05)</b>
   <details>
   <summary>common\pl\music_skill_efc.mske (script for these changes not yet written)</summary>
 
@@ -140,4 +157,7 @@
   - Switch axe: nerf Power Phials, buff overall dmg 
   - Fix Kulve Taroth
   - Buff clutch claw motion values
+  - change lifesteal
+  - change "Long Range" and "Close Range"
+  - buff defense augment
   </details>
