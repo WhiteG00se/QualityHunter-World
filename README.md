@@ -190,5 +190,6 @@
     <li>Change lifesteal</li>
     <li>Change "Long Range" and "Close Range"</li>
     <li>Buff defense augment</li>
+    <li>Buff defense on weapons</li>
   </ul>
 </details>
