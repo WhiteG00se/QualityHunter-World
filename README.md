@@ -19,6 +19,7 @@
 - All Monster Drops Increased - https://www.nexusmods.com/monsterhunterworld/mods/6556
 - Tenderizing Rebalance and Removal - https://www.nexusmods.com/monsterhunterworld/mods/5601
 - Permanent Shiny Drops - https://www.nexusmods.com/monsterhunterworld/mods/3456
+- True weapon damage values - https://www.nexusmods.com/monsterhunterworld/mods/2459
 - Sharpening finish sound replacement__Nice Meme - https://www.nexusmods.com/monsterhunterworld/mods/345
 </details>
 
