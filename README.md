@@ -52,7 +52,9 @@
   <details>
   <summary>common\facility\shopList.slt</summary>
   
-  - add all relevent usable items to the shop and some other items as well
+  - you can now get all the usable items you'll need during hunts for 1z at the shop. Crafting and cultivating plants are no longer required
+  - added (gourmet) vouchers, armor spheres, whetfish fins and Zorah Magdaros tickets to the shop
+
   </details>
 
   <details>
