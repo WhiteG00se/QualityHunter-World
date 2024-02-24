@@ -39,11 +39,11 @@
   <details>
   <summary>common\item\itemData.itm</summary>
     
-  - changed item carry limits, especially for healing items as part of the defense rework
+  - changed item carry limits, especially for healing items as part of the healing rework
   - the following items are now infinite use: 
       - Blast and poison coatings, ammos (aside from para, sleep, cluster and slicing)
       - Cool Drink, Hot Drink, Whetfish Fin, Whetfish Fin+ and Well-done Steak
-  - Banned the following items (defense rework): <br>
+  - Banned the following items (healing rework): <br>
    Armortalon, Armorcharm, (Mega) Armorskin, (Mega) Demondrug, Ancient Potion
 
 
@@ -58,7 +58,7 @@
   <details>
   <summary>common\pl\pl_param.plp</summary>
 
-  - Gunner Defense Rate 0.7 => 0.55  
+  - Gunner Defense Rate 0.7 => 0.55 (healing rework)
   </details>
 
   <details>
