@@ -26,9 +26,11 @@
 <summary>The rest of the files we created using:</summary>
 
 - The rest of the files we created using
-- https://github.com/Synthlight/MHW-Editor
-- https://github.com/Synthlight/MHW-Editor/wiki
-- https://www.nexusmods.com/monsterhunterworld/mods/411
+- [Synthlight's MHW Editor](https://github.com/Synthlight/MHW-Editor/releases)
+- [Synthlight's MHW Editor Wiki](https://github.com/Synthlight/MHW-Editor/wiki) 
+- [MHWNoChunk](https://www.nexusmods.com/monsterhunterworld/mods/411)
+- [RBQL / Rainbow CSV for VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- our own scripts
 - oo2core_8_win64.dll (got a backup on Google-Drive)
 </details>
 
@@ -132,4 +134,5 @@
   - Lance poke and up-poke should deal same dmg
   - buff bow dragon piercer
   - change gun ammo (pierce, spread, normal, sticky, slicing)
+  - Switch axe: nerf Power Phials, buff overall dmg 
   </details>
