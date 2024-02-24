@@ -127,7 +127,14 @@
 
 <details>
   <summary>hm\wp\wp11\wp11_param.w11p</summary>
-
+  <ul>
+    <li>Status Coating Buildup Multiplier unchanged at 	1/1.2/1.4/1.6 (Charge 1/2/3/4)</li>
+    <li>Power Coating Damage unchanged at 1.35</li>
+    <li>Close Range Coating Damage unchanged at 1.18</li>
+    <li>Close Range Coating Critical Start Multiplier unchanged at 	0.1</li>
+    <li>Close Range Coating Critical End Multiplier unchanged at 	0.6</li>
+    <li>Amount of Arrows Shot unchanged</li>
+  </ul>
 </details>
 
 <br><b>Hunting Horn (wp05)</b>
@@ -175,7 +182,7 @@
     <li>hh dmg*1.35 and songs scripts</li>
     <li>Armor defense & negative res scripts</li>
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
-    <li>Buff bow dragon piercer</li>
+    <li>Buff bow dragon piercer, Buff Raw Bow</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
     <li>Switch axe: nerf Power Phials, buff overall dmg</li>
     <li>Fix Kulve Taroth</li>
