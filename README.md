@@ -67,6 +67,12 @@
   <summary>common\pl\pl_param.plp</summary>
   <ul>
     <li>Gunner defense rate 0.7 ⇒ 0.55 (healing rework)</li>
+    <li>HR Augment Defense Bonus 10/20/30 ⇒ 30/60/90</li>
+    <li>HR Augment Defense Bonus 15/25/35/50 ⇒ 45/75/105/150</li>
+    <li>HR/MR Augment Lifesteal Cooldown 0.2sec ⇒ 0.1sec </li>
+    <li>MR Augment Attack Bonus 5/10/15/25 ⇒ 10/18/25/40</li>
+    <li>HR Augment Health Percent 10/15/20% ⇒ 8/12/16%</li>
+    <li>MR Augment Health Percent 7.5/9/11/14% ⇒ 5/7.5/10/12.5%</li>
   </ul>
 </details>
 <details> <!-- common\equip\armor.am_dat -->
@@ -171,9 +177,8 @@
     <li>Switch axe: nerf Power Phials, buff overall dmg</li>
     <li>Fix Kulve Taroth</li>
     <li>Buff clutch claw motion values by 50% each</li>
-    <li>Change lifesteal</li>
     <li>Change "Long Range" and "Close Range"</li>
-    <li>Buff defense augment</li>
     <li>Buff defense on weapons</li>
+    <li>nerf hh healing</li>
   </ul>
 </details>
