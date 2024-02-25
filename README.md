@@ -34,8 +34,11 @@
     <li><a href="https://github.com/Synthlight/MHW-Editor/releases">Synthlight's MHW Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHW-Editor/wiki">Synthlight's MHW Editor Wiki</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/411">MHWNoChunk</a></li>
-    <li><a href="https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv">RBQL / Rainbow CSV for VS
-        Code</a></li>
+    <li>https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv">RBQL / Rainbow CSV for VS
+      Code</a></li>
+    <li><a href="https://github.com/Aradi147/MHW-Quest/releases">MHW Quest Editor</a></li>
+    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Quests">Fextralife Wiki Quest Overview</a></li>
+    <li><a href="https://github.com/Ezekial711/MonsterHunterWorldModding/wiki/Quest-IDs">Quest IDs</a></li>
     <li>Our own scripts</li>
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
