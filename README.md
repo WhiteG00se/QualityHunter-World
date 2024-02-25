@@ -44,7 +44,9 @@
   <summary>common\item\itemData.itm</summary>
   <ul>
     <li>Changed item carry limits, especially for healing items as part of the healing rework</li>
-    <li>You'll start the quest with the max amount, that you can carry of any given item. Crafting during the mission is not intended. For balance reasons, it's recommended that you only get new consumables from the camp if you just fainted</li>
+    <li>You'll start the quest with the max amount, that you can carry of any given item. Crafting during the mission is
+      not intended. For balance reasons, it's recommended that you only get new consumables from the camp if you just
+      fainted</li>
     <li>The following items are now infinite use:
       <ul>
         <li>Blast and poison coatings, ammos (aside from para, sleep, cluster and slicing)</li>
