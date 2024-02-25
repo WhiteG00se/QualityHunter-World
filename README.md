@@ -1,4 +1,5 @@
 <html>
+<h3>Info:</h3>
 <details> <!-- How to use -->
   <summary>How to use</summary>
   <ul>
@@ -28,8 +29,8 @@
         Meme</a></li>
   </ul>
 </details>
-<details> <!-- Main tools used for our mods: -->
-  <summary>Main tools used for our mods:</summary>
+<details> <!-- Tools and info used to create our mods -->
+  <summary>Tools and info used to create our mods</summary>
   <ul>
     <li><a href="https://github.com/Synthlight/MHW-Editor/releases">Synthlight's MHW Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHW-Editor/wiki">Synthlight's MHW Editor Wiki</a></li>
