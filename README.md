@@ -27,6 +27,9 @@
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2459">True weapon damage values</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/345">Sharpening finish sound replacement__Nice
         Meme</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/4333"></a>Better Input Detection</li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2164"></a>No Grind Guiding Lands</li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/4195"></a>Unlimited Lures</li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
