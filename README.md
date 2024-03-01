@@ -177,7 +177,7 @@
   <summary>toDo list</summary>
   <ul>
     <li>Add certain decos as quest rewards and/or rework crafting
-      <br>Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics
+      <br>Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro
     </li>
     <li>Change drop tables</li>
     <li>hh dmg*1.35 and songs scripts</li>
