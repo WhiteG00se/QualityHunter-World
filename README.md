@@ -67,6 +67,65 @@
     <li>Added (gourmet) vouchers, armor spheres, whetfish fins and Zorah Magdaros tickets to the shop</li>
   </ul>
 </details>
+<details> <!-- \common\pl\askill_param.asp -->
+  <summary>\common\pl\askill_param.asp</summary>
+  <ul>
+    <li>Changed Dragonproof Mantle to be in line with other elemental resistances mantles
+      <br>Cooldown 300⇒210
+      <br>Duration 120⇒180
+      <br>Damage Reduction 30%⇒30%
+      <br>Dragon Damage Multiplier (other mantles don't have this) *1.2⇒*1.2
+    </li>
+    <li>Ghillie Mantle
+      <br>Cooldown 300⇒120
+      <br>Duration 120⇒120
+    </li>
+    <li>Rocksteady Mantle
+      <br>Cooldown 360⇒240
+      <br>Duration 90⇒100
+      <br>Damage Resist *0.70⇒*0.75
+    </li>
+    <li>Challenger Mantle
+      <br>Cooldown 300⇒90
+      <br>Duration 180⇒180
+    </li>
+    <li>Vitality Mantle
+      <br>Cooldown 360⇒240
+      <br>Duration 120⇒180
+      <br>HP Shield 100⇒70
+    </li>
+    <li>Evasion Mantle
+      <br>Cooldown 300⇒300
+      <br>Duration 90⇒120
+      <br>Attack Boost *1.3⇒*1.3
+      <br>Attack Boost Duration 20⇒30
+    </li>
+    <li>Impact Mantle
+      <br>Cooldown 360⇒300
+      <br>Duration 90⇒90
+    </li>
+    <li>Immunity Mantle
+      <br>Cooldown 210⇒120
+      <br>Duration 120⇒120
+    </li>
+    <li>Health Booster
+      <br>Cooldown 150⇒200
+      <br>Duration 60⇒45
+      <br>Upgraded Duration 100⇒60
+    </li>
+    <li>Affinity Booster
+      <br>Cooldown 180⇒120
+      <br>Duration 60⇒120
+      <br>Buff Duration 20⇒10
+      <br>Buff Affinity 50%⇒50%
+    </li>
+    <li>Cleanser Booster
+      <br>Cooldown 150⇒100
+      <br>Duration 60⇒60
+      <br>Upgraded Duration 120⇒100
+    </li>
+  </ul>
+</details>
 <details> <!-- common\pl\pl_param.plp -->
   <summary>common\pl\pl_param.plp</summary>
   <ul>
