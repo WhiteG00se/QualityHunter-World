@@ -182,7 +182,7 @@
     <li>Buff defense on weapons</li>
     <li>Buff bow dragon piercer, Buff Raw Bow</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
-    
+    <hr>
     <li>Change drop tables</li>
     <li>Change "Long Range" and "Close Range"</li>
     <li>Switch axe: nerf Power Phials, buff overall dmg</li>
