@@ -37,11 +37,6 @@
     <li><a href="https://github.com/Synthlight/MHW-Editor/releases">Synthlight's MHW Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHW-Editor/wiki">Synthlight's MHW Editor Wiki</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/411">MHWNoChunk</a></li>
-    <li>https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv">RBQL / Rainbow CSV for VS
-      Code</a></li>
-    <li><a href="https://github.com/Aradi147/MHW-Quest/releases">MHW Quest Editor</a></li>
-    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Quests">Fextralife Wiki Quest Overview</a></li>
-    <li><a href="https://github.com/Ezekial711/MonsterHunterWorldModding/wiki/Quest-IDs">Quest IDs</a></li>
     <li>Our own scripts</li>
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
@@ -85,9 +80,9 @@
   </ul>
 </details>
 <details> <!-- common\equip\armor.am_dat -->
-  <summary>common\equip\armor.am_dat</summary>
+  <summary>common\equip\armor.am_dat (script for these changes not yet written)</summary>
   <ul>
-    <li>SELECT a.P1_Set_Group, a.p2_Variant, a.P3_Type, a.P4_Equip_slot, "Defense", a.Defense*3 WHERE a.Defense> 0</li>
+    <li>3x the base defense of all armors and remove negative resistances</li>
   </ul>
 </details>
 <details> <!-- common\equip\skill_data.skl_dat -->
@@ -179,17 +174,19 @@
     <li>Add certain decos as quest rewards and/or rework crafting
       <br>Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro
     </li>
-    <li>Change drop tables</li>
-    <li>hh dmg*1.35 and songs scripts</li>
     <li>Armor defense & negative res scripts</li>
+    <li>hh dmg*1.35</li>
+    <li>hh songs scripts</li>
+    <li>hh healing nerf</li>
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
+    <li>Buff defense on weapons</li>
     <li>Buff bow dragon piercer, Buff Raw Bow</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
-    <li>Switch axe: nerf Power Phials, buff overall dmg</li>
-    <li>Fix Kulve Taroth</li>
-    <li>Buff clutch claw motion values by 50% each</li>
+    
+    <li>Change drop tables</li>
     <li>Change "Long Range" and "Close Range"</li>
-    <li>Buff defense on weapons</li>
-    <li>nerf hh healing</li>
+    <li>Switch axe: nerf Power Phials, buff overall dmg</li>
+    <li>Buff clutch claw motion values by 50% each</li>
+    <li>Fix Kulve Taroth</li>
   </ul>
 </details>
