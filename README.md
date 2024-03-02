@@ -139,7 +139,7 @@
   </ul>
 </details>
 <details> <!-- common\equip\armor.am_dat -->
-  <summary>common\equip\armor.am_dat (script for these changes not yet written)</summary>
+  <summary>common\equip\armor.am_dat</summary>
   <ul>
     <li>3x the base defense of all armors and remove negative resistances</li>
   </ul>
@@ -233,7 +233,6 @@
     <li>Add certain decos as quest rewards and/or rework crafting
       <br>Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro
     </li>
-    <li>Armor defense & negative res scripts</li>
     <li>hh dmg*1.35</li>
     <li>hh songs scripts</li>
     <li>hh healing nerf</li>
