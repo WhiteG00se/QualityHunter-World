@@ -41,19 +41,18 @@
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
 </details>
-<h3><a href="https://docs.google.com/spreadsheets/d/1Gh45iZ4zJfJ-ox3Mq_9B57btyoEGqgNrPGkLhxZ1VqE/edit#gid=227556876" target="_blank">Changelog/Wiki</a></h3>
-
+<h3><a href="https://docs.google.com/spreadsheets/d/1Gh45iZ4zJfJ-ox3Mq_9B57btyoEGqgNrPGkLhxZ1VqE/edit#gid=227556876"
+    target="_blank">Changelog/Wiki</a></h3>
 <details> <!-- toDo list -->
   <summary>toDo list</summary>
   <ul>
-    <li>rework crafting
-      <br>Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro
-    </li>
+    <li>rework crafting: Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro</li>
+    <li>remove decos from drop table once you can craft them</li>
+    <li>redo docu: items & shop</li>
     <li>hh dmg*1.3</li>
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
     <hr>
-    <li>Change drop tables</li>
     <li>Change "Long Range" and "Close Range"</li>
     <li>Switch axe: nerf Power Phials, buff overall dmg</li>
     <li>Buff clutch claw motion values by 50% each</li>
