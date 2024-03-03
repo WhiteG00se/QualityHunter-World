@@ -37,11 +37,6 @@
     <li><a href="https://github.com/Synthlight/MHW-Editor/releases">Synthlight's MHW Editor</a></li>
     <li><a href="https://github.com/Synthlight/MHW-Editor/wiki">Synthlight's MHW Editor Wiki</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/411">MHWNoChunk</a></li>
-    <li>https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv">RBQL / Rainbow CSV for VS
-      Code</a></li>
-    <li><a href="https://github.com/Aradi147/MHW-Quest/releases">MHW Quest Editor</a></li>
-    <li><a href="https://monsterhunterworld.wiki.fextralife.com/Quests">Fextralife Wiki Quest Overview</a></li>
-    <li><a href="https://github.com/Ezekial711/MonsterHunterWorldModding/wiki/Quest-IDs">Quest IDs</a></li>
     <li>Our own scripts</li>
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
@@ -72,6 +67,65 @@
     <li>Added (gourmet) vouchers, armor spheres, whetfish fins and Zorah Magdaros tickets to the shop</li>
   </ul>
 </details>
+<details> <!-- \common\pl\askill_param.asp -->
+  <summary>\common\pl\askill_param.asp</summary>
+  <ul>
+    <li>Changed Dragonproof Mantle to be in line with other elemental resistances mantles
+      <br>Cooldown 300⇒210
+      <br>Duration 120⇒180
+      <br>Damage Reduction 30%⇒30%
+      <br>Dragon Damage Multiplier (other mantles don't have this) *1.2⇒*1.2
+    </li>
+    <li>Ghillie Mantle
+      <br>Cooldown 300⇒120
+      <br>Duration 120⇒120
+    </li>
+    <li>Rocksteady Mantle
+      <br>Cooldown 360⇒240
+      <br>Duration 90⇒100
+      <br>Damage Resist *0.70⇒*0.75
+    </li>
+    <li>Challenger Mantle
+      <br>Cooldown 300⇒90
+      <br>Duration 180⇒180
+    </li>
+    <li>Vitality Mantle
+      <br>Cooldown 360⇒240
+      <br>Duration 120⇒180
+      <br>HP Shield 100⇒70
+    </li>
+    <li>Evasion Mantle
+      <br>Cooldown 300⇒300
+      <br>Duration 90⇒120
+      <br>Attack Boost *1.3⇒*1.3
+      <br>Attack Boost Duration 20⇒30
+    </li>
+    <li>Impact Mantle
+      <br>Cooldown 360⇒300
+      <br>Duration 90⇒90
+    </li>
+    <li>Immunity Mantle
+      <br>Cooldown 210⇒120
+      <br>Duration 120⇒120
+    </li>
+    <li>Health Booster
+      <br>Cooldown 150⇒200
+      <br>Duration 60⇒45
+      <br>Upgraded Duration 100⇒60
+    </li>
+    <li>Affinity Booster
+      <br>Cooldown 180⇒120
+      <br>Duration 60⇒120
+      <br>Buff Duration 20⇒10
+      <br>Buff Affinity 50%⇒50%
+    </li>
+    <li>Cleanser Booster
+      <br>Cooldown 150⇒100
+      <br>Duration 60⇒60
+      <br>Upgraded Duration 120⇒100
+    </li>
+  </ul>
+</details>
 <details> <!-- common\pl\pl_param.plp -->
   <summary>common\pl\pl_param.plp</summary>
   <ul>
@@ -87,7 +141,7 @@
 <details> <!-- common\equip\armor.am_dat -->
   <summary>common\equip\armor.am_dat</summary>
   <ul>
-    <li>SELECT a.P1_Set_Group, a.p2_Variant, a.P3_Type, a.P4_Equip_slot, "Defense", a.Defense*3 WHERE a.Defense> 0</li>
+    <li>3x the base defense of all armors and remove negative resistances</li>
   </ul>
 </details>
 <details> <!-- common\equip\skill_data.skl_dat -->
@@ -179,17 +233,18 @@
     <li>Add certain decos as quest rewards and/or rework crafting
       <br>Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro
     </li>
-    <li>Change drop tables</li>
-    <li>hh dmg*1.35 and songs scripts</li>
-    <li>Armor defense & negative res scripts</li>
+    <li>hh dmg*1.35</li>
+    <li>hh songs scripts</li>
+    <li>hh healing nerf</li>
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
+    <li>Buff defense on weapons</li>
     <li>Buff bow dragon piercer, Buff Raw Bow</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
-    <li>Switch axe: nerf Power Phials, buff overall dmg</li>
-    <li>Fix Kulve Taroth</li>
-    <li>Buff clutch claw motion values by 50% each</li>
+    <hr>
+    <li>Change drop tables</li>
     <li>Change "Long Range" and "Close Range"</li>
-    <li>Buff defense on weapons</li>
-    <li>nerf hh healing</li>
+    <li>Switch axe: nerf Power Phials, buff overall dmg</li>
+    <li>Buff clutch claw motion values by 50% each</li>
+    <li>Fix Kulve Taroth</li>
   </ul>
 </details>
