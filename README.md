@@ -51,7 +51,6 @@
     </li>
     <li>hh dmg*1.3</li>
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
-    <li>Buff bow dragon piercer, Buff Raw Bow</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
     <hr>
     <li>Change drop tables</li>
