@@ -10,7 +10,8 @@ def parse_template(url):
         " ubyte": "B",
         " byte": "b",
         " ushort": "H",
-        " ushort": "h"
+        " short": "h",
+        " float": "f"
     }
     response = requests.get(url)
     structs = response.text.split("struct")
