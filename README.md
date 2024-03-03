@@ -46,7 +46,7 @@
 <details> <!-- toDo list -->
   <summary>toDo list</summary>
   <ul>
-    <li>Add certain decos as quest rewards and/or rework crafting
+    <li>rework crafting
       <br>Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro
     </li>
     <li>hh dmg*1.3</li>
