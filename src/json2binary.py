@@ -3,10 +3,10 @@ import json
 import struct
 from utils import parse_template
 
-file_path = "armor.am_dat.json"
+file_in = "armor.am_dat.json"
 file_out = "src/armor_converted.am_dat"
 
-file_type = Path(file_path).stem.split(".")[-1]
+file_type = Path(file_in).stem.split(".")[-1]
 
 # Define the structure formats
 github_template_url = f"https://raw.githubusercontent.com/Synthlight/MHW-Editor/master/010%20Templates/{file_type}.bt"
@@ -21,7 +21,7 @@ def write_entry(file, entry):
     file.write(struct.pack(datatypes["Entries"], *entry.values()))
 
 # Read JSON data from file
-with open(file_path, 'r') as json_file:
+with open(file_in, 'r') as json_file:
     data = json.load(json_file)
 
 # Open binary file for writing
