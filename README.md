@@ -1,5 +1,6 @@
 <html>
-<h3>Info:</h3>
+<h3><a href="https://docs.google.com/spreadsheets/d/1Gh45iZ4zJfJ-ox3Mq_9B57btyoEGqgNrPGkLhxZ1VqE/edit#gid=227556876"
+    target="_blank">Changelog/Wiki</a></h3>
 <details> <!-- How to use -->
   <summary>How to use</summary>
   <ul>
@@ -41,8 +42,6 @@
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
 </details>
-<h3><a href="https://docs.google.com/spreadsheets/d/1Gh45iZ4zJfJ-ox3Mq_9B57btyoEGqgNrPGkLhxZ1VqE/edit#gid=227556876"
-    target="_blank">Changelog/Wiki</a></h3>
 <details> <!-- toDo list -->
   <summary>toDo list</summary>
   <ul>
