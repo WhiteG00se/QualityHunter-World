@@ -46,7 +46,6 @@
   <summary>toDo list</summary>
   <ul>
     <li>hh dmg*1.3</li>
-    <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
     <li>Fix Kulve Taroth</li>
   </ul>
 </details>
