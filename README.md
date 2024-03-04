@@ -45,9 +45,6 @@
 <details> <!-- toDo list -->
   <summary>toDo list</summary>
   <ul>
-    <li>rework crafting: Guard Up, Bow Charge Plus, Health Up, Mind's Eye/Ballistics/Maestro</li>
-    <li>remove decos from drop table once you can craft them</li>
-    <li>redo docu: items & shop</li>
     <li>hh dmg*1.3</li>
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
