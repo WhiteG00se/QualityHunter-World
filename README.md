@@ -45,7 +45,6 @@
 <details> <!-- toDo list -->
   <summary>toDo list</summary>
   <ul>
-    <li>hh dmg*1.3</li>
     <li>Fix Kulve Taroth</li>
   </ul>
 </details>
