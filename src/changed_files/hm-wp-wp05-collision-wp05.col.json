@@ -4,43 +4,43 @@
   "changesV3": {
     "Atk1": {
       "12": {
-        "Motion_Value": 45.0
+        "Motion_Value": 55.0
       },
       "13": {
-        "Motion_Value": 45.0
+        "Motion_Value": 55.0
       },
       "14": {
-        "Motion_Value": 45.0
+        "Motion_Value": 55.0
       },
       "15": {
-        "Motion_Value": 45.0
+        "Motion_Value": 55.0
       },
       "16": {
-        "Motion_Value": 45.0
+        "Motion_Value": 55.0
       },
       "17": {
-        "Motion_Value": 45.0
+        "Motion_Value": 55.0
       },
       "18": {
-        "Motion_Value": 45.0
+        "Motion_Value": 55.0
       },
       "20": {
-        "Motion_Value": 60.0
+        "Motion_Value": 70.0
       },
       "21": {
-        "Motion_Value": 60.0
+        "Motion_Value": 70.0
       },
       "22": {
-        "Motion_Value": 60.0
+        "Motion_Value": 70.0
       },
       "23": {
-        "Motion_Value": 60.0
+        "Motion_Value": 70.0
       },
       "24": {
-        "Motion_Value": 60.0
+        "Motion_Value": 70.0
       },
       "25": {
-        "Motion_Value": 60.0
+        "Motion_Value": 70.0
       }
     }
   }
