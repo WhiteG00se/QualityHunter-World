@@ -47,9 +47,6 @@
   <ul>
     <li>hh dmg*1.3</li>
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
-    <hr>
-    <li>Switch axe: nerf Power Phials, buff overall dmg</li>
-    <li>Buff clutch claw motion values by 50% each</li>
     <li>Fix Kulve Taroth</li>
   </ul>
 </details>
