@@ -49,7 +49,6 @@
     <li>Lance dmg*1.2 script (poke and up-poke same dmg)</li>
     <li>Change gun ammo (pierce, spread, normal, sticky, slicing)</li>
     <hr>
-    <li>Change "Long Range" and "Close Range"</li>
     <li>Switch axe: nerf Power Phials, buff overall dmg</li>
     <li>Buff clutch claw motion values by 50% each</li>
     <li>Fix Kulve Taroth</li>
