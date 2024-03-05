@@ -13,15 +13,26 @@
         "Effect": 1.2
       },
       "4": {
-        "M2_Duration": 720.0,
-        "Effect": 50.0,
-        "Recast_Effect": 50.0,
-        "Unk_1": 7,
-        "Unk_2": 7,
-        "Unk_6": 20
+        "M2_Duration": 0.0,
+        "Effect": 0.0,
+        "Recast_Effect": 0.0,
+        "Unk_1": 21,
+        "Unk_2": 21,
+        "Unk_6": 12,
+        "Duration": 0.0,
+        "M1_Duration": 0.0,
+        "Unk_3": 21
       },
       "5": {
-        "M2_Duration": 720.0
+        "M2_Duration": 0.0,
+        "M1_Duration": 0.0,
+        "Duration": 0.0,
+        "Recast_Effect": 0.0,
+        "Effect": 0.0,
+        "Unk_1": 23,
+        "Unk_2": 23,
+        "Unk_3": 23,
+        "Unk_6": 14
       },
       "6": {
         "M2_Duration": 720.0
@@ -196,7 +207,9 @@
         "M2_Duration": 720.0
       },
       "55": {
-        "M2_Duration": 720.0
+        "M2_Duration": 6.0,
+        "Duration": 2.0,
+        "M1_Duration": 4.0
       },
       "56": {
         "M2_Duration": 720.0
