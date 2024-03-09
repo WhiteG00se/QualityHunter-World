@@ -42,9 +42,3 @@
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
 </details>
-<details> <!-- toDo list -->
-  <summary>toDo list</summary>
-  <ul>
-    <li>Fix Kulve Taroth</li>
-  </ul>
-</details>
