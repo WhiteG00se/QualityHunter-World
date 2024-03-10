@@ -10,3 +10,4 @@ nvngx_dlisp.dll
 nvngx_dlss.dll
 /savedata_backup/
 steam_api64.dll
+/src/__pycache__

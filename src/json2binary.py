@@ -3,7 +3,7 @@ import json
 import struct
 from utils import parse_template
 
-file_in = "armor.am_dat.json"
+file_in = "src\changed_files\common-equip-armor.am_dat.json"
 file_out = Path(file_in).stem
 
 file_type = Path(file_in).stem.split(".")[-1]
