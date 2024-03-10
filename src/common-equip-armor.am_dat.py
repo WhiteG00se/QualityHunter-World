@@ -15,7 +15,7 @@ def write_json_file(data, output_file):
 
 def modify_entry(data):
     for entry in data["Entries"]:
-        entry["Defense (ushort)"] = math.ceil(entry["Defense (ushort)"] * 2.2)
+        entry["Defense (ushort)"] = math.ceil(entry["Defense (ushort)"] * 2)
         entry["Fire Res (byte)"] = max(0, entry["Fire Res (byte)"])
         entry["Water Res (byte)"] = max(0, entry["Water Res (byte)"])
         entry["Ice Res (byte)"] = max(0, entry["Ice Res (byte)"])
