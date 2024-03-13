@@ -21,7 +21,7 @@ def fetch_local_version():
             else:
                 return "error"
     else:
-        return "error"
+        return "missing"
 
 def fetch_latest_version():
     # Fetch the latest version from the GitHub repository
@@ -91,7 +91,7 @@ def create_popup():
         button_text = "Start Game (Enter)"
         command = start_game
         root.bind("<Return>", lambda event: start_game())
-    elif local_version < latest_version:
+    elif (local_version < latest_version) or local_version=='missing':
         button_text = "Update (Enter)"
         command = update_game
         root.bind("<Return>", lambda event: update_game())
