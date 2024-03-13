@@ -4,6 +4,8 @@ import subprocess
 import requests
 import re
 import pygit2
+import cffi
+import _cffi_backend
 
 # Define minimum width and height for the popup window
 MIN_WIDTH = 350
@@ -77,11 +79,11 @@ def create_popup():
 
     # Function to start the game
     def start_game():
-        root.destroy()  # Close the window
+        exit_launcher()
         run_game()  # Run the game
 
     # Function to exit the program
-    def exit_program():
+    def exit_launcher():
         root.destroy()
 
     # Function to update the game
@@ -102,6 +104,8 @@ def create_popup():
         local_branch = repo.lookup_branch(repo.head.shorthand)
         repo.merge(remote_branch.target)
 
+        exit_launcher()
+
     # Compare versions and decide action
     if local_version == latest_version:
         button_text = "Start Game (Enter)"
@@ -113,8 +117,8 @@ def create_popup():
         root.bind("<Return>", lambda event: update_game())
     else:
         button_text = "Version Error, Exit (Enter)"
-        command = exit_program
-        root.bind("<Return>", lambda event: exit_program())
+        command = exit_launcher
+        root.bind("<Return>", lambda event: exit_launcher())
 
     # Display button (if applicable)
     if command:
@@ -122,10 +126,10 @@ def create_popup():
         start_button.pack(padx=20, pady=5)
 
     # Add exit button
-    exit_button = tk.Button(root, text="Exit (Esc)", command=exit_program)
+    exit_button = tk.Button(root, text="Exit (Esc)", command=exit_launcher)
     exit_button.pack(padx=20, pady=5)
 
-    root.bind("<Escape>", lambda event: exit_program())
+    root.bind("<Escape>", lambda event: exit_launcher())
 
     # Run the Tkinter event loop
     root.mainloop()
