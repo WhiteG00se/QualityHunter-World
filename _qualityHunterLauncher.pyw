@@ -3,10 +3,12 @@ import tkinter as tk
 import subprocess
 import requests
 import re
+import pygit2
 
 # Define minimum width and height for the popup window
 MIN_WIDTH = 350
 MIN_HEIGHT = 150
+
 
 def fetch_local_version():
     # Check if "version.txt" exists in the current directory
@@ -84,7 +86,21 @@ def create_popup():
 
     # Function to update the game
     def update_game():
-        pass  # Placeholder for future functionality
+        # Path to the local repository
+        repo_path = os.curdir
+
+        # Open the repository
+        repo = pygit2.Repository(repo_path)
+
+        # Fetch the latest changes from the remote repository
+        remote = repo.remotes["origin"]
+        remote.fetch()
+
+        # Pull the changes into the local branch
+        reference = f"refs/remotes/origin/{repo.head.shorthand}"
+        remote_branch = repo.lookup_reference(reference).resolve()
+        local_branch = repo.lookup_branch(repo.head.shorthand)
+        repo.merge(remote_branch.target)
 
     # Compare versions and decide action
     if local_version == latest_version:
