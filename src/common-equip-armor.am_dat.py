@@ -15,12 +15,24 @@ def write_json_file(data, output_file):
 
 def modify_entry(data):
     for entry in data["Entries"]:
-        entry["Defense (ushort)"] = math.ceil(entry["Defense (ushort)"] * 2)
+        entry["Defense (ushort)"] = math.ceil(entry["Defense (ushort)"] * 1.75)
         entry["Fire Res (byte)"] = max(0, entry["Fire Res (byte)"])
         entry["Water Res (byte)"] = max(0, entry["Water Res (byte)"])
         entry["Ice Res (byte)"] = max(0, entry["Ice Res (byte)"])
         entry["Thunder Res (byte)"] = max(0, entry["Thunder Res (byte)"])
         entry["Dragon Res (byte)"] = max(0, entry["Dragon Res (byte)"])
+        if entry["Equip Slot (ubyte)"] == 5 and entry["Skill 1 (ushort)"] != 0:
+            if entry["Skill 1 (ushort)"] != 104: # 104: Flinch Free
+                if entry["Skill 2 (ushort)"] == 0:
+                    entry["Skill 2 (ushort)"] = 104  # 104: Flinch Free
+                    entry["Skill 2 Level (ubyte)"] = 1
+                else:
+                    entry["Skill 3 (ushort)"] = 104  # 104: Flinch Free
+                    entry["Skill 3 Level (ubyte)"] = 1
+            else:
+                entry["Skill 2 (ushort)"] = 97  # 97: Divine Blessing
+                entry["Skill 2 Level (ubyte)"] = 1
+                
 
 data = parse_json_file(inputFile)
 modify_entry(data)
