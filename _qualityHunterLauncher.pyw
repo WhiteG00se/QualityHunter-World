@@ -1,4 +1,5 @@
 import os
+import sys
 import tkinter as tk
 import subprocess
 import requests
@@ -11,12 +12,19 @@ import _cffi_backend
 MIN_WIDTH = 350
 MIN_HEIGHT = 150
 
+def get_application_path():
+    if getattr(sys, 'frozen', False):
+        application_path = os.path.dirname(sys._MEIPASS)
+    else:
+        application_path = os.path.dirname(os.path.abspath(__file__))
+    return application_path
 
 def fetch_local_version():
     # Check if "version.txt" exists in the current directory
-    if os.path.isfile("version.txt"):
+    version_file = os.path.join(get_application_path(), "version.txt")
+    if os.path.isfile(version_file):
         # Read the content of the file
-        with open("version.txt", "r") as f:
+        with open(version_file, "r") as f:
             version_string = f.read().strip()
             # Validate version format
             if re.match(r'^\d+(\.\d+)+$', version_string):
@@ -111,10 +119,19 @@ def create_popup():
         button_text = "Start Game (Enter)"
         command = start_game
         root.bind("<Return>", lambda event: start_game())
-    elif (local_version < latest_version) or local_version=='missing':
+    elif local_version < latest_version:
         button_text = "Update (Enter)"
         command = update_game
         root.bind("<Return>", lambda event: update_game())
+    elif local_version=='missing':
+        if os.path.isdir(os.path.join(get_application_path(), ".git")):
+            button_text = "Version missing but .git folder exists, Exit (Enter)"
+            command = exit_launcher
+            root.bind("<Return>", lambda event: exit_launcher())
+        else:
+            button_text = "Install mod (Enter)"
+            command = exit_launcher
+            root.bind("<Return>", lambda event: exit_launcher())
     else:
         button_text = "Version Error, Exit (Enter)"
         command = exit_launcher
