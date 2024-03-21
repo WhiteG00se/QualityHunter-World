@@ -1,1 +1,21 @@
-1.10
+2.0
+- changed all def values back to 100% (armors, augments, weapons, skills, so on)
+- changed lifesteal back to 100% of default values
+- changed base hp: 100 => 250 (team mate hp bars no longer work correctly as a side effect)
+- guts and Latent Power hp values back to default
+- small mantle changes
+- undo Health Booster nerfs, back to base stats
+- Affinity Booster Buff Duration: 10 => 30
+- removed recovery speed from all armors and replaced it with recovery up
+- Flash Pod carry limit: 3 => 5
+- carry limit of shit: 3 => 5
+- Mega Potion carry limit: 3 => 5
+- Immunizer carry limit: 1 => 3
+- Astera Jerky carry limit: 1 => 3
+- Tranq Bomb is now infinite use
+- added the following items to the shop: research commission ticket & Kulve Gacha Items (Melded Weapon, Dissolved Weapon, Sublimated Weapon)
+- Hammer buff (dmg and partbreak, check wiki for details)
+- hh earplugs (s) buff didn't work, reverting changes
+- hh attack/deff buffes nerfed
+- hh performance dmg and partbreak buffed
+- change demo drop table (wiki for details)
