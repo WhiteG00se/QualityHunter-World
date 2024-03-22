@@ -21,7 +21,14 @@ def modify_entry(data):
         entry["Ice Res (byte)"] = max(0, entry["Ice Res (byte)"])
         entry["Thunder Res (byte)"] = max(0, entry["Thunder Res (byte)"])
         entry["Dragon Res (byte)"] = max(0, entry["Dragon Res (byte)"])
-        if entry["Equip Slot (ubyte)"] == 5 and entry["Skill 1 (ushort)"] != 0:
+        if entry["Defense (ushort)"] >= 1: # if armor piece
+            if entry["Skill 1 (ushort)"] == 23: # 23: Recovery Speed
+                entry["Skill 1 (ushort)"] = 22 # 22: Recovery Up
+            elif entry["Skill 2 (ushort)"] == 23:
+                entry["Skill 2 (ushort)"] = 22
+            elif entry["Skill 3 (ushort)"] == 23:
+                entry["Skill 3 (ushort)"] = 22
+        elif entry["Equip Slot (ubyte)"] == 5 and entry["Skill 1 (ushort)"] != 0: #if charm
             if entry["Skill 1 (ushort)"] != 104: # 104: Flinch Free
                 if entry["Skill 2 (ushort)"] == 0:
                     entry["Skill 2 (ushort)"] = 104
@@ -29,16 +36,15 @@ def modify_entry(data):
                 else:
                     entry["Skill 3 (ushort)"] = 104
                     entry["Skill 3 Level (ubyte)"] = 1
+                if entry["Skill 3 (ushort)"] == 0:
+                    entry["Skill 3 (ushort)"] = 94 # 94: Master Gatherer
+                    entry["Skill 3 Level (ubyte)"] = 1
             else:
                 entry["Skill 2 (ushort)"] = 97  # 97: Divine Blessing
                 entry["Skill 2 Level (ubyte)"] = 1
-        if entry["Defense (ushort)"] >= 1:
-            if entry["Skill 1 (ushort)"] == 23: # 23: Recovery Speed
-                entry["Skill 1 (ushort)"] = 22 # 22: Recovery Up
-            elif entry["Skill 2 (ushort)"] == 23:
-                entry["Skill 2 (ushort)"] = 22
-            elif entry["Skill 3 (ushort)"] == 23:
-                entry["Skill 3 (ushort)"] = 22
+                entry["Skill 3 (ushort)"] = 94 # 94: Master Gatherer
+                entry["Skill 3 Level (ubyte)"] = 1
+        
                 
 
 data = parse_json_file(inputFile)
