@@ -15,7 +15,7 @@ def write_json_file(data, output_file):
 
 def modify_entry(data):
     for entry in data["Entries"]:
-        entry["Defense (ushort)"] *= 3
+        entry["Defense (ushort)"] *= 2
 
 for file in input_folder.iterdir():
     if file.suffix != ".json":
