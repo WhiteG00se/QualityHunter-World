@@ -15,7 +15,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3473">Performance Booster and Plugin Extender</a>
     </li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3474">Tic Rate Fix</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/790">Camera Zoom</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1985">Camera Distance Change for Iceborne - 200</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/75">No Rain</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/5540">Skippable Cutscenes</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1986">Guiding Lands Gathering Indicator</a></li>
