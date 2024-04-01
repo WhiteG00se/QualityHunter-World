@@ -33,6 +33,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2300">Active Skill Popup Removal - Skills Only & Sounds</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3385">Monster 3-Star Elemental and Status Ailment Weakness</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/5469">Invisible Slingers Complete Edition: Main + 2a All-in-one</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2621">Critical hit flash EFX removal</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
