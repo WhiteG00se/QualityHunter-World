@@ -16,3 +16,4 @@
 - defender weapons are now cheaper again
 - defender GunLance changed to wide 4 (instead of long 4)
 - buffed dual blade claw moves (just for Alex 😊)
+- GunLance Cannon buffed
