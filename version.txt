@@ -12,5 +12,7 @@
 - Hasten Recovery back to 5 hits, but 0.72CD between hits (strong buff on smaller weapons)
 - Speed Eating buffs reverted
 - Ghillie Mantle and Challenger Mantle duration increased to 10min
-- armorcharm and powercharm are now set to 0, but the talons now give as much stats as charm+talon+drug used to give
+- armorcharm, powercharm, pills and demon powder are now set to 0, but the talons now give as much stats as charm+talon+drug used to give + a little extra for the pills and powder
 - defender weapons are now cheaper again
+- defender GunLance changed to wide 4 (instead of long 4)
+- buffed dual blade claw moves (just for Alex 😊)
