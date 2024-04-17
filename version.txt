@@ -17,3 +17,4 @@
 - defender GunLance changed to wide 4 (instead of long 4)
 - buffed dual blade claw moves (just for Alex 😊)
 - GunLance Cannon buffed
+- Vitali Mantle nerfed to 140->125hp and cooldown 180->240s
