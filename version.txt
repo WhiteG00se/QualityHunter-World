@@ -1,6 +1,6 @@
-4.0
+4.01 beta
 - added 3rd party custom quest "Hunter Rank Easy Level up (HR and MR IB needed)"
-- added First Wyverian Print to the shop for 1z
+- added Gold Wyverian Print to the shop for 1z
 - added DLC Layered and Event Tickets to the Shop
 - mega potion 3 => 25
 - herbal medicine => 12 but herbal powder => 0
