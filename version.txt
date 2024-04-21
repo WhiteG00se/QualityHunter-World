@@ -1,4 +1,4 @@
-4.2 beta
+4.3 beta
 - added 3rd party custom quest "Hunter Rank Easy Level up (HR and MR IB needed)"
 - added Gold Wyverian Print to the shop for 1z
 - added DLC Layered and Event Tickets to the Shop
