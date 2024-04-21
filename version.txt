@@ -1,4 +1,4 @@
-4.3 beta
+4.4 beta
 - added 3rd party custom quest "Hunter Rank Easy Level up (HR and MR IB needed)"
 - added Gold Wyverian Print to the shop for 1z
 - added DLC Layered and Event Tickets to the Shop
@@ -19,3 +19,4 @@
 - buffed dual blade claw moves (just for Alex 😊)
 - GunLance Cannon buffed
 - Vitali Mantle nerfed to 140->125hp and cooldown 180->240s
+- nerfed defender dual blades from  255 raw + 15 para to  235 raw + 17 para
