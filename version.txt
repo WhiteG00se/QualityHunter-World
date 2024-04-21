@@ -1,4 +1,4 @@
-4.1 beta
+4.2 beta
 - added 3rd party custom quest "Hunter Rank Easy Level up (HR and MR IB needed)"
 - added Gold Wyverian Print to the shop for 1z
 - added DLC Layered and Event Tickets to the Shop
@@ -12,7 +12,8 @@
 - Hasten Recovery back to 5 hits, but 0.72CD between hits (strong buff on smaller weapons)
 - Speed Eating buffs reverted
 - Ghillie Mantle and Challenger Mantle duration increased to 10min
-- armorcharm, powercharm, pills and demon powder are now set to 0, but the talons now give as much stats as charm+talon+drug used to give + a little extra for the pills and powder
+- armorcharm, powercharm, pills and powders are now set to 0, but the talons now give as much stats as charm+talon+drug used to give + a little extra for the pills and powder
+- Adamant and Might Seed Duration set to 10s, Adamant Seed is now basically a nullberry for defence down and Might Seed is now useless (you get more stats from talons)
 - defender weapons are now cheaper again
 - defender GunLance changed to wide 4 (instead of long 4)
 - buffed dual blade claw moves (just for Alex 😊)
