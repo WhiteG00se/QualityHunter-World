@@ -1,4 +1,4 @@
-4.5 beta
+4.6 beta
 - added 3rd party custom quest "Hunter Rank Easy Level up (HR and MR IB needed)"
 - added Gold Wyverian Print to the shop for 1z
 - added DLC Layered and Event Tickets to the Shop
@@ -21,3 +21,12 @@
 - Vitali Mantle nerfed to 140->125hp and cooldown 180->240s
 - nerfed defender dual blades from  255 raw + 15 para to  215 raw + 15 para
 - nerfed other defender weapons from  220 raw to  200 raw
+- Sticky Ammo back to vanilla stats:
+  Damage Type:	Blunt Dmg (2) ->	True Dmg (0)
+  MV:	24/34/48 ->	12/17/24
+  Stun Dmg:	20/35/50 ->	30/50/100
+- Slicing Ammo back to vanilla stats:
+  Partbreak Multi:	1.25 ->	1
+  MV:	6 * 6 = 36 ->	5 * 6 = 30
+- HR/MR Augment Lifesteal Cooldown back to vanilla:	0.1sec ->	0.2sec
+
