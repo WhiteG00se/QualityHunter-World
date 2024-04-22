@@ -1,4 +1,4 @@
-4.6 beta
+4.7 beta
 - added 3rd party custom quest "Hunter Rank Easy Level up (HR and MR IB needed)"
 - added Gold Wyverian Print to the shop for 1z
 - added DLC Layered and Event Tickets to the Shop
@@ -29,4 +29,8 @@
   Partbreak Multi:	1.25 ->	1
   MV:	6 * 6 = 36 ->	5 * 6 = 30
 - HR/MR Augment Lifesteal Cooldown back to vanilla:	0.1sec ->	0.2sec
-
+- Dragon Piercer nerf:
+  Lv1, Phys DMG MV	24 ->	20
+  Lv2, Phys DMG MV	28 ->	23
+  Lv3, Phys DMG MV	34 ->	29
+  Lv4, Phys DMG MV	36 ->	30
