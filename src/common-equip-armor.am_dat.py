@@ -15,19 +15,19 @@ def write_json_file(data, output_file):
 
 def modify_entry(data):
     for entry in data["Entries"]:
-        entry["Defense (ushort)"] = math.ceil(entry["Defense (ushort)"] * 1.05)
+        # entry["Defense (ushort)"] = math.ceil(entry["Defense (ushort)"] * 1.05)
         entry["Fire Res (byte)"] = max(0, entry["Fire Res (byte)"])
         entry["Water Res (byte)"] = max(0, entry["Water Res (byte)"])
         entry["Ice Res (byte)"] = max(0, entry["Ice Res (byte)"])
         entry["Thunder Res (byte)"] = max(0, entry["Thunder Res (byte)"])
         entry["Dragon Res (byte)"] = max(0, entry["Dragon Res (byte)"])
         if entry["Defense (ushort)"] >= 1: # if armor piece
-            if entry["Skill 1 (ushort)"] == 23: # 23: Recovery Speed
-                entry["Skill 1 (ushort)"] = 22 # 22: Recovery Up
-            elif entry["Skill 2 (ushort)"] == 23:
-                entry["Skill 2 (ushort)"] = 22
-            elif entry["Skill 3 (ushort)"] == 23:
-                entry["Skill 3 (ushort)"] = 22
+            # if entry["Skill 1 (ushort)"] == 23: # 23: Recovery Speed
+            #     entry["Skill 1 (ushort)"] = 22 # 22: Recovery Up
+            # elif entry["Skill 2 (ushort)"] == 23:
+            #     entry["Skill 2 (ushort)"] = 22
+            # elif entry["Skill 3 (ushort)"] == 23:
+            #     entry["Skill 3 (ushort)"] = 22
             if entry["Skill 1 (ushort)"] == 86: # 86: Speed Sharpening
                 entry["Skill 1 (ushort)"] = 85 # 85: Speed Eating
             elif entry["Skill 2 (ushort)"] == 86:
