@@ -1,3 +1,4 @@
 4.8
 - more infinite use items:
 shit, Dash Juice, Poison Smoke Bomb, Farcaster
+- reset everything related to clutch claw to base game (aside from weakness exploit) 

@@ -23,7 +23,6 @@
         Spots</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6556">All Monster Drops Increased</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6565">Quest Reward Increase</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/5601">Tenderizing Rebalance and Removal</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3456">Permanent Shiny Drops</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2459">True weapon damage values</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/345">Sharpening finish sound replacement__Nice
