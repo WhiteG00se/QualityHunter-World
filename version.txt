@@ -1,7 +1,1 @@
 4.8
-- more infinite use items:
-shit, Dash Juice, Poison Smoke Bomb, Farcaster
-- reset everything related to clutch claw to base game (aside from weakness exploit)
-clutch claw ( 1 star optional) can now be played
-- Defender HBG Sticky nerfed to match MAGDA GEMITUS II
-- Slugger	KO dmg back to default values:	120/140/150/175/200% =>	120/130/140/150/160%
