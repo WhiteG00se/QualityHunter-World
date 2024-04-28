@@ -1,1 +1,3 @@
-4.7
+4.8
+- more infinite use items:
+shit, Dash Juice, Poison Smoke Bomb, Farcaster
