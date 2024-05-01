@@ -1,1 +1,2 @@
-4.11
+4.12
+- removed 3rd party mod "Invisible Slingers"
