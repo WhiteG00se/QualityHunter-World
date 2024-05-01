@@ -5,7 +5,9 @@
   <summary>How to use</summary>
   <ul>
     <li>Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter World"</li>
+    <li>Download the <a href="https://drive.google.com/drive/folders/1RfKv3gDa48SasxFqWi3OTxrU8N1mRYzU">latest 3rd party mod bundle</a> and also add the files to "[...]\Steam\steamapps\common\Monster Hunter World"</li>
     <li>That's it! You can start the game and all mods will be loaded.</li>
+    
   </ul>
 </details>
 <details> <!-- 3rd party mods included in our bundle -->
