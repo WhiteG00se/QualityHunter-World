@@ -21,8 +21,8 @@
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1986">Guiding Lands Gathering Indicator</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/1972">Easier to spot Guiding Lands Gathering
         Spots</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6556">All Monster Drops Increased</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6565">Quest Reward Increase</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6556">All Monster Drops Increased - All Monster Drops and Rates Increased</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6565">Quest Reward Increase - Quest Reward Increase</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3456">Permanent Shiny Drops</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2459">True weapon damage values</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/345">Sharpening finish sound replacement__Nice
@@ -32,7 +32,7 @@
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2300">Active Skill Popup Removal - Skills Only & Sounds</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3385">Monster 3-Star Elemental and Status Ailment Weakness</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2621">Critical hit flash EFX removal</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2371">Hunter Rank Easy Level up (HR and MR IB needed)</a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2371">Hunter Rank Easy Level up - (HR and MR IB needed)</a></li>
     <li><a href="https://next.nexusmods.com/profile/CUREDOSIN/mods?gameId=2531&sortBy=downloads">lots of CUREDOSIN's skins </a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6878">yishenyuan's monster packs</a></li>
   </ul>
