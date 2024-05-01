@@ -33,6 +33,8 @@
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3385">Monster 3-Star Elemental and Status Ailment Weakness</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2621">Critical hit flash EFX removal</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2371">Hunter Rank Easy Level up (HR and MR IB needed)</a></li>
+    <li><a href="https://next.nexusmods.com/profile/CUREDOSIN/mods?gameId=2531&sortBy=downloads">lots of CUREDOSIN's skins </a></li>
+    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6878">yishenyuan's monster packs</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
