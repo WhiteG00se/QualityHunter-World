@@ -7,7 +7,6 @@
     <li>Download this repo and add the files to "[...]\Steam\steamapps\common\Monster Hunter World"</li>
     <li>Download the <a href="https://drive.google.com/drive/folders/1RfKv3gDa48SasxFqWi3OTxrU8N1mRYzU">latest 3rd party
         mod bundle</a> and also add the files to "[...]\Steam\steamapps\common\Monster Hunter World"</li>
-    <li>That's it! You can start the game and all mods will be loaded.</li>
     <li>
       <table>
         <tr>
@@ -25,7 +24,7 @@
           <th></th>
         </tr>
         <tr>
-          <td>set launch options to, then start the game via steam</td>
+          <td>set launch options, then start via steam</td>
           <td>WINEDLLOVERRIDES="dinput8.dll,loader.dll=n,b" %command%</td>
         </tr>
       </table>
