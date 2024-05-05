@@ -8,6 +8,28 @@
     <li>Download the <a href="https://drive.google.com/drive/folders/1RfKv3gDa48SasxFqWi3OTxrU8N1mRYzU">latest 3rd party
         mod bundle</a> and also add the files to "[...]\Steam\steamapps\common\Monster Hunter World"</li>
     <li>That's it! You can start the game and all mods will be loaded.</li>
+    <li>
+      <table>
+        <tr>
+          <th>Windows</th>
+        </tr>
+        <tr>
+          <td>That's it, start the game via steam</td>
+        </tr>
+      </table>
+    </li>
+    <li>
+      <table>
+        <tr>
+          <th>Steam Deck</th>
+          <th></th>
+        </tr>
+        <tr>
+          <td>set launch options to, then start the game via steam</td>
+          <td>WINEDLLOVERRIDES="dinput8.dll,loader.dll=n,b" %command%</td>
+        </tr>
+      </table>
+    </li>
   </ul>
 </details>
 <details> <!-- 3rd party mods included in our bundle -->
@@ -55,9 +77,4 @@
     <li>Our own scripts</li>
     <li>oo2core_8_win64.dll (got a backup on Google-Drive)</li>
   </ul>
-</details>
-<details> <!-- Steamdeck/Linux Support -->
-  <summary>Steamdeck/Linux Support</summary>
-  <p>add the following launch option:<br>
-    WINEDLLOVERRIDES="dinput8.dll,loader.dll=n,b" %command%</p>
 </details>
