@@ -54,7 +54,6 @@
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/345">Sharpening finish sound replacement__Nice
         Meme</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2164">No Grind Guiding Lands</a></li>
-    <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/4195">Unlimited Lures</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/2300">Active Skill Popup Removal - Skills Only &
         Sounds</a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/3385">Monster 3-Star Elemental and Status Ailment
