@@ -44,3 +44,8 @@ loader-config.json
 *.timl
 *.dds
 /nativePC/wp/slg
+*.cfg
+*.ccl
+*.wwct
+*.dtt_dif
+*.sdl
