@@ -64,6 +64,8 @@
     <li><a href="https://next.nexusmods.com/profile/CUREDOSIN/mods?gameId=2531&sortBy=downloads">lots of CUREDOSIN's
         skins </a></li>
     <li><a href="https://www.nexusmods.com/monsterhunterworld/mods/6878">yishenyuan's monster packs</a></li>
+    <li><a href="https://next.nexusmods.com/profile/NekotagaYuhatora/about-me?gameId=2531">Resurgence monsters (nexus)</a></li>
+    <li><a href="https://www.patreon.com/mhwresurgence">Resurgence monsters (patreon)</a></li>
   </ul>
 </details>
 <details> <!-- Tools and info used to create our mods -->
