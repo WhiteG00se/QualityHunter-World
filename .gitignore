@@ -11,7 +11,6 @@ nvngx_dlss.dll
 /savedata_backup/
 steam_api64.dll
 /src/__pycache__
-*.dll
 loader-config.json
 *.tex
 *.itlot
